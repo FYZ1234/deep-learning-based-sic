@@ -13,4 +13,4 @@ This python code is split into the following files:
 5. _CV-CLDNN.py_:This file loads the measured testbed data and performs non-linear cancellation using the CV-CLDNN model. It also plots the PSDs of the resulting signals as well as the cancellation performance.
 6. _HCRDNN.py_:This file loads the measured testbed data and performs non-linear cancellation using the HCRDNN model. It also plots the PSDs of the resulting signals as well as the cancellation performance.
 7._transformer.py_ :This file loads the measured testbed data and performs non-linear cancellation using the transformer model. It also plots the PSDs of the resulting signals as well as the cancellation performance.
-8.fdTestbedData20MHz10dBm.mat_:This file contains the measured testbed data.
+8. fdTestbedData20MHz10dBm.mat_:This file contains the measured testbed data.
